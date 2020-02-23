@@ -4,8 +4,11 @@ Helvetica Neue Cyrillic
 
 ## Installation 
 
-```
-// JS with SASS
+```javascript
+yarn add @marcius-capital/fonts  // npm i @marcius-capital/fonts 
+
+
+// connection: JS with SASS
 import '@marcius-capital/fonts'
 
 ```
