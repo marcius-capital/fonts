@@ -1,34 +1,30 @@
-# Fonts
+# Helvetica Neue Cyrillic
 
-Helvetica Neue Cyrillic
+Free font with MIT licence
 
-## Installation 
+## How to start
 
-### Package manager
+1. Install in your project
 
 ```node
-yarn add @marcius-capital/fonts  
-
-npm i @marcius-capital/fonts 
-
+yarn add @marcius-studio/font
+npm i @marcius-studio/font
 ```
 
-### Connection in app
+2. Add in project
 
-```javascript
-// need a custom webpack that will work with fonts and SCSS
+```js
 // add in main.js
-import '@marcius-capital/fonts'
+import '@marcius-studio/fonts'
 ```
-
-### CSS / SASS
 
 ```css
 body {
     font-family: 'HelveticaNeueCyr', sans-serif;
-	font-weight: 500;
+	font-weight: 400;
 }
 ```
 
-## Stay In Touch
-You can ask questions in our Telegram channel: [https://t.me/joinchat/G5DV0xUO-pvjEmoWc7dBUg](https://t.me/joinchat/G5DV0xUO-pvjEmoWc7dBUg)
+## Licence
+
+[MIT](http://opensource.org/licenses/MIT) | Copyright (c)

@@ -1,27 +1,27 @@
 {
-  "name": "@marcius-capital/fonts",
-  "version": "1.0.1",
-  "description": "Default fonts",
-  "main": "HelveticaNeueCyr/stylesheet.scss",
+  "name": "@marcius-studio/font",
+  "version": "0.0.1",
+  "description": "",
+  "main": "HelveticaNeueCyr/stylesheet.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcius-capital/fonts.git"
+    "url": "git+https://github.com/marcius-studio/font.git"
   },
   "keywords": [
     "helvetica",
     "helvetica-neue",
     "cyrillic",
-    "fonts"
+    "font"
   ],
-  "author": "Nikita Marcius",
+  "author": "Nikita Marcius https://github.com/nikitamarcius",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcius-capital/fonts/issues"
+    "url": "https://github.com/marcius-studio/font/issues"
   },
-  "homepage": "https://github.com/marcius-capital/fonts#readme",
+  "homepage": "https://github.com/marcius-studio/font#readme",
   "publishConfig": {
     "access": "public"
   }
